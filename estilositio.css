@@ -1,0 +1,302 @@
+img{
+
+width: 277px;
+height: 337.5px;
+left: 65px;
+top: 70px;
+background: url(foto.jpg);
+
+}
+.textoazul{
+    color: blue;
+    font-size: large;
+}
+.textorojo{
+    color: crimson;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    position: absolute;
+    width: 100%;
+    height: 140px;
+    left: 0px;
+    top: 0px;
+    background: #81E9D0;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    height: 105px;
+    left: 0px;
+    top: 919px;
+    background: #81E9D0;
+}
+nav{
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 140px;
+    background: #6FC6B1;
+}
+legend{
+    border: #6FC6B1;
+    border-radius: 3px;
+}
+body{
+    box-sizing: border-box;
+margin: 0px;
+position: relative;
+width: 100%;
+height: 1024px;
+
+background: #fefefe;
+}
+#encabezado{
+    padding: 10px;
+    text-align: center;
+    border: 5px solid;
+    margin: 20px;
+}
+
+
+
+
+/* Index */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+
+
+.botonera{
+position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 140px;
+
+background: #6FC6B1;
+}
+
+/* footer */
+
+position: absolute;
+width: 1440px;
+height: 105px;
+left: 0px;
+top: 919px;
+
+background: #81E9D0;
+
+
+/* header */
+
+position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+background: #81E9D0;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 335px;
+height: 335px;
+left: 39px;
+top: 43px;
+
+background: #D9D9D9;
+border: 3px solid #000000;
+
+
+/* Curriculum Vitae */
+
+position: absolute;
+width: 997px;
+height: 119px;
+left: 395px;
+top: 21px;
+
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 125px;
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* Boton 1 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 604px;
+top: 157px;
+
+background: #FBFBFB;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Inicio */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 447px;
+top: 157px;
+
+font-family: 'Crimson Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Boton 2 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 655px;
+top: 157px;
+
+
+
+/* Boton 2 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 812px;
+top: 157px;
+
+background: #FBFBFB;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Estudios */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 655px;
+top: 157px;
+
+font-family: 'Crimson Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Boton 3 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 865px;
+top: 157px;
+
+
+
+/* Boton 3 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 1022px;
+top: 157px;
+
+background: #FBFBFB;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Conocimientos */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 865px;
+top: 157px;
+
+font-family: 'Crimson Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Boton 4 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 1070px;
+top: 157px;
+
+
+
+/* Boton 1 */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 1227px;
+top: 157px;
+
+background: #FBFBFB;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Competencias */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 1070px;
+top: 157px;
+
+font-family: 'Crimson Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
